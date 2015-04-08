@@ -13,10 +13,7 @@
     <section class="page-header">
       <h1 class="project-name">Curso de Introdução ao Chi Kung</h1>
       <h2 class="project-tagline">Zhan Zhuang Chi Kung | A Arte do Cultivo da Quietude</h2>
-      <a href="https://github.com/devagar/chikung101" class="btn">View on GitHub</a>
-      <a href="https://github.com/devagar/chikung101/zipball/master" class="btn">Download .zip</a>
-      <a href="https://github.com/devagar/chikung101/tarball/master" class="btn">Download .tar.gz</a>
-    </section>
+   </section>
 
     <section class="main-content">
       <h3>
