@@ -7,11 +7,11 @@ layout: default
 
 Este curso tem como base o vídeo essencial.
 
-Este vídeo pode ser [descarregado aqui](http://vessencial.s3.amazonaws.com/video100dias-640.mp4) ou visualizado online na [minha página pessoal](http://lourencoazevedo.com/video.html)
+Este vídeo pode ser [descarregado aqui](http://vessencial.s3.amazonaws.com/video100dias-640.mp4)(*) ou visualizado online na [minha página pessoal](http://lourencoazevedo.com/video.html)
 
 Sendo um curso que está focado no desenvolvimento de hábitos diários de prática, recomendo que antes de começar a criar a sua rotina de treino que [leia este artigo.](http://chikung101.s3.amazonaws.com/semana0/fortalecer-habitos.pdf)
 
-**(*) Utilize para todos os vídeos e documentos que queira descarregar, o botão direito do rato, seguido da opção "salvar/guardar como".**
+_(*) Utilize para todos os vídeos e documentos que queira descarregar, o botão direito do rato, seguido da opção "salvar/guardar como"._
 
 ### : Semana 1
 
