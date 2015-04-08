@@ -18,15 +18,24 @@ Recomendo que antes de começar a criar a sua rotina de prática que [leia este 
 Textos de apoio: 
 
 + [O que é o Chi Kung?](http://chikung101.s3.amazonaws.com/semana1/chikung.pdf)
-+ [Sugestão de prática](http://chikung101.s3.amazonaws.com/semana1/proposta.pdf) mediante tempo disponível utilizando o vídeo essencial. *O alongamento empurrar o céu e a terra pode ser substituído por um dos alongamentos aprendidos na aula*
++ [Sugestão de prática](http://chikung101.s3.amazonaws.com/semana1/proposta.pdf) mediante tempo disponível utilizando o vídeo essencial. *O alongamento empurrar o céu e a terra pode ser substituído por um dos alongamentos estudados na aula*
 
 Vídeos de apoio:
 
 + [Balançar os braços em frente alternadamente](http://ck-language.s3.amazonaws.com/Balternadamente.m4v)
 + [Balançar os braços lateralmente](http://ck-language.s3.amazonaws.com/Blateralmente.m4v) 
-+ [Primeiro alongamento das oito peças do brocado](http://ck-language.s3.amazonaws.com/alongamento1.mp4)
++ [Primeiro alongamento das oito peças do brocado](http://ck-language.s3.amazonaws.com/alongamento1.mp4) - suportar o Céu.
 
 ### : Semana 2
 
 Textos de apoio
 
++ [Chi Kung terapêutico](http://chikung101.s3.amazonaws.com/semana2/chikung-terapeutico.pdf)
++ [Zhan Zhuang Chi Kung](http://chikung101.s3.amazonaws.com/semana2/zhan-zhuang.pdf)
++ [história e linhagem](http://chikung101.s3.amazonaws.com/semana2/linhagem.pdf)
+
+Vídeo de Apoio
+
++ [Segundo alongamento das oito peças do brocado](http://ck-language.s3.amazonaws.com/bdj2.mp4) Estirar o arco com as duas mãos.
+
+Boas práticas
