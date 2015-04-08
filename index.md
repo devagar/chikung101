@@ -11,7 +11,7 @@ Este vídeo pode ser [descarregado aqui](http://vessencial.s3.amazonaws.com/vide
 
 Sendo um curso que está focado no desenvolvimento de hábitos diários de prática, recomendo que antes de começar a criar a sua rotina de treino que [leia este artigo.](http://chikung101.s3.amazonaws.com/semana0/fortalecer-habitos.pdf)
 
-**(*) Utilize para todos os vídeos e documentos que queira descarregar a tecla direita do rato seguida da opção salvar/guardar como.**
+**(*) Utilize para todos os vídeos e documentos que queira descarregar, o botão direito do rato, seguido da opção "salvar/guardar como".**
 
 ### : Semana 1
 
