@@ -3,7 +3,7 @@ layout: default
 ---
 ## Curso de introdução
 
-### Antes de começar
+### ...antes de começar
 
 Este curso tem como base o vídeo essencial.
 
