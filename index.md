@@ -5,13 +5,11 @@ layout: default
 
 ### Antes de começar
 
-Este curso tem como base o vídeo essencial 
+Este curso tem como base o vídeo essencial.
 
 Este vídeo pode ser [descarregado aqui](http://vessencial.s3.amazonaws.com/video100dias-640.mp4) ou visualizado online na [minha página pessoal](http://lourencoazevedo.com/video.html)
 
-Este é um curso que está focado no desenvolvimento de hábitos diários de prática. 
-
-Recomendo que antes de começar a criar a sua rotina de prática que [leia este artigo.](http://chikung101.s3.amazonaws.com/semana0/fortalecer-habitos.pdf)
+Sendo um curso que está focado no desenvolvimento de hábitos diários de prática, recomendo que antes de começar a criar a sua rotina de treino que [leia este artigo.](http://chikung101.s3.amazonaws.com/semana0/fortalecer-habitos.pdf)
 
 ### : Semana 1
 
