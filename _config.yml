@@ -1,7 +1,10 @@
 # Site settings
 title: Instrodução ao Chi Kung
-tag_text: Introdução ao Chi Kung
+tag_text: Curso de Introdução ao Chi Kung
 description: Solo is a Jekyll theme that supports single-page websites only, but supports them well. Yes, it’s responsive.
+# jekyll setings
+source:      .
+destination: ./_site
 
 # Build settings
 markdown: kramdown

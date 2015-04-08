@@ -1,0 +1,5 @@
+_site/**
+*.swp
+*.~*
+.git/
+.DS_Store
