@@ -30,7 +30,7 @@ Textos de apoio
 
 + [Chi Kung terapêutico](http://chikung101.s3.amazonaws.com/semana2/chikung-terapeutico.pdf)
 + [Zhan Zhuang Chi Kung](http://chikung101.s3.amazonaws.com/semana2/zhan-zhuang.pdf)
-+ [história e linhagem](http://chikung101.s3.amazonaws.com/semana2/linhagem.pdf)
++ [História e linhagem](http://chikung101.s3.amazonaws.com/semana2/linhagem.pdf)
 
 Vídeo de Apoio
 
