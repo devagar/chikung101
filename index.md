@@ -13,7 +13,38 @@ Sendo um curso que está focado no desenvolvimento de hábitos diários de prát
 
 _(*) Utilize para todos os vídeos e documentos que queira descarregar, o botão direito do rato, seguido da opção "salvar/guardar como"._
 
+### : Semana 3
+
+**Sumário da aula:** Cultivar a quietude no dia a dia aprendendo a chegar onde quer que estejaam. Introdução ao Yin e Yang
+
+Textos de Apoio
+
++ [Quatro propostas para o cultivo da quietude](http://lourencoazevedo.com/2013/04/10/quatro-formas-para-o-cultivo-da-quietude.html)
++ [Prática de Emergência](http://lourencoazevedo.com/2014/10/10/emergencia.html)
+
+Vídeos de Apoio:
+
++ [Postura de abraçar suportar o balão](http://ck-language.s3.amazonaws.com/postura-madeira.jpg)
++ [Yin Yang](https://s3.eu-central-1.amazonaws.com/ck-regenerar/Mes2/Chi.mp4)
++ [Terceiro alongamneto das oito peças do brocado](http://ck-language.s3.amazonaws.com/bdj3.mp4)
+
+### : Semana 2
+
+**Sumário da aula:** Vários tipos de Chi Kung, o que é o Zhan Zhuang Chi Kung, História e linhagem. 
+
+Textos de apoio
+
++ [Chi Kung terapêutico](http://chikung101.s3.amazonaws.com/semana2/chikung-terapeutico.pdf)
++ [Zhan Zhuang Chi Kung](http://chikung101.s3.amazonaws.com/semana2/zhan-zhuang.pdf)
++ [História e linhagem](http://chikung101.s3.amazonaws.com/semana2/linhagem.pdf)
+
+Vídeo de Apoio
+
++ [Segundo alongamento das oito peças do brocado](http://ck-language.s3.amazonaws.com/bdj2.mp4) Estirar o arco com as duas mãos.
+
 ### : Semana 1
+
+**Sumário da aula:** Introdução aos movimentos essenciais e ao conceito de Chi Kung.
 
 Textos de apoio: 
 
@@ -26,16 +57,6 @@ Vídeos de apoio:
 + [Balançar os braços lateralmente](http://ck-language.s3.amazonaws.com/Blateralmente.m4v) 
 + [Primeiro alongamento das oito peças do brocado](http://ck-language.s3.amazonaws.com/alongamento1.mp4) - suportar o Céu.
 
-### : Semana 2
 
-Textos de apoio
-
-+ [Chi Kung terapêutico](http://chikung101.s3.amazonaws.com/semana2/chikung-terapeutico.pdf)
-+ [Zhan Zhuang Chi Kung](http://chikung101.s3.amazonaws.com/semana2/zhan-zhuang.pdf)
-+ [História e linhagem](http://chikung101.s3.amazonaws.com/semana2/linhagem.pdf)
-
-Vídeo de Apoio
-
-+ [Segundo alongamento das oito peças do brocado](http://ck-language.s3.amazonaws.com/bdj2.mp4) Estirar o arco com as duas mãos.
 
 Boas práticas
