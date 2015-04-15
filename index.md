@@ -15,7 +15,7 @@ _(*) Utilize para todos os vídeos e documentos que queira descarregar, o botão
 
 ### : Semana 3
 
-**Sumário da aula:** Cultivar a quietude no dia a dia aprendendo a chegar onde quer que estejaam. Introdução ao Yin e Yang
+**Sumário da aula:** Cultivar a quietude no dia a dia, aprendendo a chegar onde quer que estejaam. Introdução ao Yin e Yang
 
 Textos de Apoio
 
