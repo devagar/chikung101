@@ -15,7 +15,7 @@ _(*) Utilize para todos os vídeos e documentos que queira descarregar, o botão
 
 ### : Semana 4
 
-**Sumário da aula:** Os "Quatro Portões" e como organizar a prática em casa partindo de uma prganização de uma refeição. 
+**Sumário da aula:** Os "Quatro Portões" e como organizar a prática em casa partindo de uma organização de uma refeição. 
 
 Textos de apoio 
 
