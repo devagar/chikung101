@@ -20,7 +20,7 @@ _(*) Utilize para todos os vídeos e documentos que queira descarregar, o botão
 Textos de apoio 
 
 + [Quatro portões](http://lourencoazevedo.com/2014/04/10/circular2.html)
-+ [Organizar a prática em casa](data/s4/cozinhar-treino.html)
++ [Organizar a prática em casa](data/s4/cozinhar-treino.pdf)
 
 Vídeos de Apoio 
 
