@@ -13,6 +13,20 @@ Sendo um curso que está focado no desenvolvimento de hábitos diários de prát
 
 _(*) Utilize para todos os vídeos e documentos que queira descarregar, o botão direito do rato, seguido da opção "salvar/guardar como"._
 
+### : Semana 4
+
+**Sumário da aula:** Os "Quatro Portões" e como organizar a prática em casa partindo de uma prganização de uma refeição. 
+
+Textos de apoio 
+
++ [Quatro portões](http://lourencoazevedo.com/2014/04/10/circular2.html)
++ [Organizar a prática em casa](data/s4/cozinhar-treino.html)
+
+Vídeos de Apoio 
+
++ [Circulos frontais](http://ck-language.s3.amazonaws.com/circulos-frontais.mp4)
++ [Quarto exercício das oito peças do brocado](http://ck-language.s3.amazonaws.com/bdj4.mp4)
+
 ### : Semana 3
 
 **Sumário da aula:** Cultivar a quietude no dia a dia, aprendendo a chegar onde quer que estejaam. Introdução ao Yin e Yang
