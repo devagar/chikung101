@@ -13,6 +13,21 @@ Sendo um curso que está focado no desenvolvimento de hábitos diários de prát
 
 _(*) Utilize para todos os vídeos e documentos que queira descarregar, o botão direito do rato, seguido da opção "salvar/guardar como"._
 
+### : Semana 5
+
+**Sumário da aula:** Continuação do estudo dos "Quatro Portões" introdução ao tema da Primavera e a sua relação com o Fígado.
+
+Textos de apoio
+
++ [Desintoxicar o Fígado](http://lourencoazevedo.com/2014/05/22/figado2.html)
++ [O Ritmo do Fígado](http://lourencoazevedo.com/2014/06/11/figado3.html)
+
+Vídeos de Apoio
+
++ [Quinto exercício das Oito peças do brocado](http://ck-language.s3.amazonaws.com/Bdj5.mp4)
+
+[Sugestão de prática](data/s5/programaS5.html) para as próximas 4 semanas 
+
 ### : Semana 4
 
 **Sumário da aula:** Os "Quatro Portões" e como organizar a prática em casa partindo de uma organização de uma refeição. 
