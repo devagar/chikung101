@@ -28,7 +28,7 @@ Vídeos de Apoio
 + [O poder regenerador da Terra - parte 3](http://ckdj.s3.amazonaws.com/2011/center/mod8/8-3.mp4)
 + [O poder regenerador da Terra - parte 4](http://ckdj.s3.amazonaws.com/2011/center/mod8/8-4.mp4)
 
-Audio de Apoio
+Audios de Apoio
 
 + [O poder regenerador da Terra - Mp3](http://ckdj.s3.amazonaws.com/2011/center/mod8/lesson8.mp3)
 + [Timer para a prática do Chi Kung Deitado](http://ckdj.s3.amazonaws.com/2011/center/mod8/CKDeitadoTimer.mp3)
