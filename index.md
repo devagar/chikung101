@@ -13,6 +13,26 @@ Sendo um curso que está focado no desenvolvimento de hábitos diários de prát
 
 _(*) Utilize para todos os vídeos e documentos que queira descarregar, o botão direito do rato, seguido da opção "salvar/guardar como"._
 
+### : Semana 6
+
+**Sumário da aula:** Introdução ao estudo da respiração, o poder regenerador da Terra com o Chi Kung deitado. 
+
+Textos de apoio
+
++ [Diagnosticar o seu Fígado segundo a Medicina Tradiconal Chinesa](http://lourencoazevedo.com/2015/02/25/figado.html)
+
+Vídeos de Apoio
+
++ [O poder regenerador da Terra - parte 1](http://ckdj.s3.amazonaws.com/2011/center/mod8/8-1.mp4)
++ [O poder regenerador da Terra - parte 2](http://ckdj.s3.amazonaws.com/2011/center/mod8/8-2.mp4)
++ [O poder regenerador da Terra - parte 3](http://ckdj.s3.amazonaws.com/2011/center/mod8/8-3.mp4)
++ [O poder regenerador da Terra - parte 4](http://ckdj.s3.amazonaws.com/2011/center/mod8/8-4.mp4)
+
+Audio de Apoio
+
++ [O poder regenerador da Terra - Mp3](http://ckdj.s3.amazonaws.com/2011/center/mod8/lesson8.mp3)
++ [Timer para a prática do Chi Kung Deitado](http://ckdj.s3.amazonaws.com/2011/center/mod8/CKDeitadoTimer.mp3)
+
 ### : Semana 5
 
 **Sumário da aula:** Continuação do estudo dos "Quatro Portões" introdução ao tema da Primavera e a sua relação com o Fígado.
@@ -26,7 +46,7 @@ Vídeos de Apoio
 
 + [Quinto exercício das Oito peças do brocado](http://ck-language.s3.amazonaws.com/Bdj5.mp4)
 
-[Sugestão de prática](data/s5/programaS5.html) para as próximas 4 semanas 
+[Sugestão de prática](programaS5.html) para as próximas 4 semanas 
 
 ### : Semana 4
 
