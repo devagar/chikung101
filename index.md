@@ -13,6 +13,19 @@ Sendo um curso que está focado no desenvolvimento de hábitos diários de prát
 
 _(*) Utilize para todos os vídeos e documentos que queira descarregar, o botão direito do rato, seguido da opção "salvar/guardar como"._
 
+### : Semana 7
+
+**Sumário da aula:** As ligações entre as várias articulações do corpo e a sua relação com a circulação e enregia do fígado. 
+
+Texto de apoio
+
++ [Sistema Circulatório](http://lourencoazevedo.com/2014/04/08/circular.html)
+
+Vídeos de apoio 
+
++ [Nadar em Terra Firme](http://ck-language.s3.amazonaws.com/nadar-em-terra-firme.m4v)
++ [Sexto exercícios das Oito Peças do Brocado](http://ck-language.s3.amazonaws.com/bdj6.mp4)
+
 ### : Semana 6
 
 **Sumário da aula:** Introdução ao estudo da respiração, o poder regenerador da Terra com o Chi Kung deitado. 
