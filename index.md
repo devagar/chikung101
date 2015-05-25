@@ -7,7 +7,7 @@ layout: default
 
 Este curso tem como base o vídeo essencial.
 
-Este vídeo pode ser [descarregado aqui](http://vessencial.s3.amazonaws.com/video100dias-640.mp4)(*) ou visualizado online na [minha página pessoal](http://lourencoazevedo.com/video.html)
+Este vídeo pode ser [descarregado aqui](http://vessencial.s3.amazonaws.com/video100dias-640.mp4)(*) ou visualizado online na [minha página pessoal](http://devagar.org/video.html)
 
 Sendo um curso que está focado no desenvolvimento de hábitos diários de prática, recomendo que antes de começar a criar a sua rotina de treino que [leia este artigo.](http://chikung101.s3.amazonaws.com/semana0/fortalecer-habitos.pdf)
 
@@ -19,7 +19,7 @@ _(*) Utilize para todos os vídeos e documentos que queira descarregar, o botão
 
 Texto de apoio
 
-+ [Sistema Circulatório](http://lourencoazevedo.com/2014/04/08/circular.html)
++ [Sistema Circulatório](http://devagar.org/2014/04/08/circular.html)
 
 Vídeos de apoio 
 
@@ -32,7 +32,7 @@ Vídeos de apoio
 
 Textos de apoio
 
-+ [Diagnosticar o seu Fígado segundo a Medicina Tradiconal Chinesa](http://lourencoazevedo.com/2015/02/25/figado.html)
++ [Diagnosticar o seu Fígado segundo a Medicina Tradiconal Chinesa](http://devagar.org/2015/02/25/figado.html)
 
 Vídeos de Apoio
 
@@ -52,8 +52,8 @@ Audios de Apoio
 
 Textos de apoio
 
-+ [Desintoxicar o Fígado](http://lourencoazevedo.com/2014/05/22/figado2.html)
-+ [O Ritmo do Fígado](http://lourencoazevedo.com/2014/06/11/figado3.html)
++ [Desintoxicar o Fígado](http://devagar.org/2014/05/22/figado2.html)
++ [O Ritmo do Fígado](http://devagar.org/2014/06/11/figado3.html)
 
 Vídeos de Apoio
 
@@ -67,7 +67,7 @@ Vídeos de Apoio
 
 Textos de apoio 
 
-+ [Quatro portões](http://lourencoazevedo.com/2014/04/10/circular2.html)
++ [Quatro portões](http://devagar.org/2014/04/10/circular2.html)
 + [Organizar a prática em casa](data/s4/cozinhar-treino.pdf)
 
 Vídeos de Apoio 
@@ -81,8 +81,8 @@ Vídeos de Apoio
 
 Textos de Apoio
 
-+ [Quatro propostas para o cultivo da quietude](http://lourencoazevedo.com/2013/04/10/quatro-formas-para-o-cultivo-da-quietude.html)
-+ [Prática de Emergência](http://lourencoazevedo.com/2014/10/10/emergencia.html)
++ [Quatro propostas para o cultivo da quietude](http://devagar.org/2013/04/10/quatro-formas-para-o-cultivo-da-quietude.html)
++ [Prática de Emergência](http://devagar.org/2014/10/10/emergencia.html)
 
 Vídeos de Apoio:
 
