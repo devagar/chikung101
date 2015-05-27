@@ -19,8 +19,8 @@ _(*) Utilize para todos os vídeos e documentos que queira descarregar, o botão
 
 Textos de apoio 
 
-+ [Oito peças do brocado](/data/s8/baduanjin.html)
-+ [Texto do ZhuangZi sobre o homem embriagado](/data/s8/zhuangzi.html)
++ [Oito peças do brocado](data/s8/baduanjin.html)
++ [Texto do ZhuangZi sobre o homem embriagado](data/s8/zhuangzi.html)
 
 Vídeo de apoio
 
@@ -28,7 +28,7 @@ Vídeo de apoio
 
 Imagem de apoio
 
-+ [O Chi e a prática da postura da árvore](/data/s8/zzeffect.jpg) 
++ [O Chi e a prática da postura da árvore](data/s8/zzeffect.jpg) 
 
 ### : Semana 7
 
