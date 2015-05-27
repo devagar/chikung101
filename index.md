@@ -19,8 +19,8 @@ _(*) Utilize para todos os vídeos e documentos que queira descarregar, o botão
 
 Textos de apoio 
 
-+ [Oito peças do brocado](data/s8/baduanjin.html)
-+ [Texto do ZhuangZi sobre o homem embriagado](data/s8/zhuangzi.html)
++ [Oito peças do brocado](baduanjin.html)
++ [Texto do ZhuangZi sobre o homem embriagado](zhuangzi.html)
 
 Vídeo de apoio
 
