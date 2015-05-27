@@ -26,3 +26,5 @@ Alguma sugestões
 + …
 
 Boas práticas
+
+[Regressar à página inicial](/)
