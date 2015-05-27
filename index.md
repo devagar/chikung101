@@ -13,6 +13,23 @@ Sendo um curso que está focado no desenvolvimento de hábitos diários de prát
 
 _(*) Utilize para todos os vídeos e documentos que queira descarregar, o botão direito do rato, seguido da opção "salvar/guardar como"._
 
+### : Semana 8
+
+**Sumário da aula:** Unir o interior com o exterior, o cima com o baixo e o frente com o trás. Estudo do final das oito peças do brocado. 
+
+Textos de apoio 
+
++ [Oito peças do brocado](/data/s8/baduanjin.html)
++ [Texto do ZhuangZi sobre o homem embriagado](/data/s8/zhuangzi.html)
+
+Vídeo de apoio
+
++ [Oito Peças do Brocado](http://ck-language.s3.amazonaws.com/BaDuanJin.m4v)
+
+Imagem de apoio
+
++ [O Chi e a prática da postura da árvore](/data/s8/zzeffect.jpg) 
+
 ### : Semana 7
 
 **Sumário da aula:** As ligações entre as várias articulações do corpo e a sua relação com a circulação e enregia do fígado. 
