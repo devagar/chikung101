@@ -27,4 +27,4 @@ Alguma sugestões
 
 Boas práticas
 
-[Regressar à página inicial](/)
+[Regressar à página inicial](http://devagar.github.io/chikung101/)

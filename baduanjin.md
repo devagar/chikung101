@@ -41,4 +41,4 @@ Em situações em que o tempo pode ser um factor determinante para realização 
 
 O tempo de prática médio é de 20 minutos na versão com oito repetições. 
 
-[Regressar à página inicial](/)
+[Regressar à página inicial](http://devagar.github.io/chikung101/)
