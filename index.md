@@ -21,7 +21,7 @@ Textos de apoio
 
 + [O cozinheiro Ding](cook_ding.html)
 + [Post publicado no dia 5.6.2015](http://lourencoazevedo.com/2015/06/05/o-cozinheiro-ding/)
-+ [Descrição do passo dos imoprtais segundo o Mestre Lam Kam Chuen](/data/s9/immortals.pdf)
++ [Descrição do passo dos imoprtais segundo o Mestre Lam Kam Chuen](data/s9/immortals.pdf)
 + [Sugestão de prática segundo o tempo disponível](semana9.html)
 
 Vídeo de Apoio
