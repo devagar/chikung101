@@ -13,6 +13,21 @@ Sendo um curso que está focado no desenvolvimento de hábitos diários de prát
 
 _(*) Utilize para todos os vídeos e documentos que queira descarregar, o botão direito do rato, seguido da opção "salvar/guardar como"._
 
+### : semana 9
+
+**Sumário da Aula:** Passo Madeira (Agachar do Tigre), a História do Cozinheiro Ding. 
+
+Textos de apoio 
+
++ [O cozinheiro Ding](cook_ding.html)
++ [Post publicado no dia 5.6.2015](http://lourencoazevedo.com/2015/06/05/o-cozinheiro-ding/)
++ [Descrição do passo dos imoprtais segundo o Mestre Lam Kam Chuen](/data/s9/immortals.pdf)
++ [Sugestão de prática segundo o tempo disponível](semana9.html)
+
+Vídeo de Apoio
+
+[Agachar do Tigre](http://ck-language.s3.amazonaws.com/passo-madeira.m4v)
+
 ### : Semana 8
 
 **Sumário da aula:** Unir o interior com o exterior, o cima com o baixo e o frente com o trás. Estudo do final das oito peças do brocado. 
