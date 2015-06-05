@@ -159,3 +159,5 @@ title: Prática por tempo disponível
 + Balançar os braços em frente ao corpo 5 minutos
 + Recolher a Energia Vital durante 9 respirações
 + Arrefecimento
+
+Boas práticas
