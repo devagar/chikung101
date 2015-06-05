@@ -1,6 +1,5 @@
 --
 layout: default
-title: Prática por tempo disponível
 --
 **5 minutos**
 
