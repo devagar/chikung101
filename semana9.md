@@ -1,6 +1,7 @@
---
+---
 layout: default
---
+title: Prática por tempo disponível
+---
 **5 minutos**
 
 + Recolher a Energia Vital
