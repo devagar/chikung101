@@ -17,9 +17,10 @@ _(*) Utilize para todos os vídeos e documentos que queira descarregar, o botão
 
 **Sumário da Aula:** Movimento e Pré Movimento, Passo dos Imortais.
 
-Texto de apoio para esta semana, inclui vídeos e material de estudo e reflexão
+Textos de apoio para esta semana, inclui vídeos e material de estudo e reflexão.
 
 + [Movimento e pré movimento](semana10.html)
++ [Descrição do passo dos imortais segundo o Mestre Lam Kam Chuen](data/s9/immortals.pdf)
 
 ### : semana 9
 
@@ -29,7 +30,6 @@ Textos de apoio
 
 + [O cozinheiro Ding](cook_ding.html)
 + [Post publicado no dia 5.6.2015](http://lourencoazevedo.com/2015/06/05/o-cozinheiro-ding/)
-+ [Descrição do passo dos imortais segundo o Mestre Lam Kam Chuen](data/s9/immortals.pdf)
 + [Sugestão de prática segundo o tempo disponível](semana9.html)
 
 Vídeo de Apoio
