@@ -13,6 +13,14 @@ Sendo um curso que está focado no desenvolvimento de hábitos diários de prát
 
 _(*) Utilize para todos os vídeos e documentos que queira descarregar, o botão direito do rato, seguido da opção "salvar/guardar como"._
 
+### : Semana 10
+
+**Sumário da Aula:** Movimento e Pré Movimento, Passo dos Imortais.
+
+Texto de apoio para esta semana, inclui vídeos e material de estudo e reflexão
+
++ [Movimento e pré movimento](semana10.html)
+
 ### : semana 9
 
 **Sumário da Aula:** Passo Madeira (Agachar do Tigre), a História do Cozinheiro Ding. 
