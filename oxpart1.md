@@ -1,6 +1,6 @@
 ---
 title: As Imagens do Pastoreio do boi
-layout: post
+layout: default
 ---
 Na última aula referi o percurso de quem pratica Chi Kung. Este percurso é pessoal e único mas está sujeito a desafios comuns que ao longo de gerações têm sido alvo de reflexão por parte de quem ensina e pratica. 
 
