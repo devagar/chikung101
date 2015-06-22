@@ -13,6 +13,20 @@ Sendo um curso que está focado no desenvolvimento de hábitos diários de prát
 
 _(*) Utilize para todos os vídeos e documentos que queira descarregar, o botão direito do rato, seguido da opção "salvar/guardar como"._
 
+### : Semana 11
+
+**Sumário da Aula:** Revisões do material do curso, tempo circular, As Imagens do pastoreio do Boi - Parte I.
+
+Texto de apoio:
+
++ [Parte I, das Imagens do Pastoreio do Boi](oxpart1.html)
+
+Vídeos de apoio:
+
++ [Introdução ao Pensamento Oriental](https://s3.eu-central-1.amazonaws.com/ck-regenerar/Mes2/pensamento-oriental.mp4)
++ [Componentes do pensamento Oriental](https://s3.eu-central-1.amazonaws.com/ck-regenerar/Mes2/componentes-oriental.mp4)
++ [Battle of the brains parte 1](https://www.youtube.com/watch?v=kYexLjWY5KE) as restantes partes podem ser encontradas [aqui.](https://www.youtube.com/channel/UCr644lOJwun5tT5sYZrUieg)
+
 ### : Semana 10
 
 **Sumário da Aula:** Movimento e Pré Movimento, Passo dos Imortais.
