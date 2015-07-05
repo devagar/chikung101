@@ -13,6 +13,14 @@ Sendo um curso que está focado no desenvolvimento de hábitos diários de prát
 
 _(*) Utilize para todos os vídeos e documentos que queira descarregar, o botão direito do rato, seguido da opção "salvar/guardar como"._
 
+### : Semana 12
+
+**Sumário da Aula:** Revisões do material do curso a pedido dos alunos. Imagens do pastoreio do Boi - conclusão. Jantar de final de ano. 
+
+Texto de apoio
+
+[Imagens do Pastoreio do Boi - completo](totalox.html)
+
 ### : Semana 11
 
 **Sumário da Aula:** Revisões do material do curso, tempo circular, As Imagens do pastoreio do Boi - Parte I.
